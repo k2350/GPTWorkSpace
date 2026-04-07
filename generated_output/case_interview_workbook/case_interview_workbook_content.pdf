@@ -1,0 +1,126 @@
+%PDF-1.4
+%
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 2 /Kids [ 4 0 R 6 0 R ] >>
+endobj
+3 0 obj
+<< /Length 2140 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 40 802 Tm
+14 TL
+(CASE INTERVIEW & FERMI ESTIMATION WORKBOOK \(Beginner, 20 Questions\)) Tj
+T* () Tj
+T* (Preface) Tj
+T* (- Goal: build structured thinking, logical consistency, and practical recommendation skill.) Tj
+T* (- This edition includes 20 practice questions and AI grading prompt templates.) Tj
+T* () Tj
+T* (How to Use) Tj
+T* (1\) Read question only \(5 min minimum\)) Tj
+T* (2\) Structure issue with framework) Tj
+T* (3\) Check hint) Tj
+T* (4\) Compare with model answer) Tj
+T* (5\) Self-score with rubric) Tj
+T* () Tj
+T* (Common Rubric \(100 points\)) Tj
+T* (- 25: Structuring \(MECE\)) Tj
+T* (- 25: Framework usage) Tj
+T* (- 25: Logical consistency) Tj
+T* (- 25: Numerical realism / action specificity) Tj
+T* () Tj
+T* (Framework Dictionary \(7\)) Tj
+T* (1. Numeric decomposition \(demand/supply\)) Tj
+T* (2. Revenue-profit decomposition) Tj
+T* (3. 3C) Tj
+T* (4. SWOT + Cross SWOT) Tj
+T* (5. PEST) Tj
+T* (6. 4P) Tj
+T* (7. Ansoff / Value Chain) Tj
+T* () Tj
+T* (20 Problems) Tj
+T* (A. Fermi \(6\)) Tj
+T* (A-1 Estimate daily onigiri sales in Japanese convenience stores.) Tj
+T* (Hint: population x purchase rate x frequency.) Tj
+T* (Model: ~12M units/day. Action: improve peak-hour forecasting.) Tj
+T* (A-2 Estimate daily taxi revenue in Tokyo.) Tj
+T* (Model: taxis x active hours x sales/hour.) Tj
+T* (A-3 Estimate Japan video streaming market size.) Tj
+T* (A-4 Estimate annual coffee demand from university students.) Tj
+T* (A-5 Estimate annual e-scooter rides in Japan.) Tj
+T* (A-6 Estimate B2B GenAI training market size.) Tj
+T* () Tj
+T* (B. Revenue/Profit \(4\)) Tj
+T* (B-1 Supermarket profit decline root-cause analysis.) Tj
+T* (B-2 E-commerce apparel growth recovery plan.) Tj
+T* (B-3 Cram school margin improvement plan.) Tj
+T* (B-4 SaaS churn increase countermeasure.) Tj
+T* () Tj
+T* (C. Environment Analysis \(4\)) Tj
+T* (C-1 Regional bank retail strategy by 3C.) Tj
+T* (C-2 Food manufacturer entry decision by PEST.) Tj
+T* (C-3 Education service SWOT and strategy.) Tj
+T* (C-4 EV parts company mid-term strategy.) Tj
+T* () Tj
+T* (D. Strategy Design \(4\)) Tj
+T* (D-1 Functional drink 4P design.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Length 949 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 40 802 Tm
+14 TL
+(D-2 Restaurant chain growth plan with Ansoff.) Tj
+T* (D-3 Manufacturing cost reduction by value chain.) Tj
+T* (D-4 B2B new business proposal with KPI.) Tj
+T* () Tj
+T* (E. Prioritization \(2\)) Tj
+T* (E-1 90-day turnaround plan for a loss-making business.) Tj
+T* (E-2 3-option executive memo with trade-off comparison.) Tj
+T* () Tj
+T* (AI Scoring Prompt Template) Tj
+T* ("You are a case interview coach. Grade the answer strictly by 4 criteria \(25 each\):) Tj
+T* (1\) structuring, 2\) framework usage, 3\) logic consistency, 4\) numerical realism.) Tj
+T* (Output: total score, criterion table, 3 strengths, 3 improvements, 30-second advice.) Tj
+T* (If information is missing, write 'insufficient information' instead of guessing.") Tj
+T* () Tj
+T* (Learning Log Template) Tj
+T* (- Total score) Tj
+T* (- Lowest criterion) Tj
+T* (- Root cause) Tj
+T* (- Next one improvement action) Tj
+T* (- Next question ID) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 7 0 R >> >> /Contents 3 0 R >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 7 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000129 00000 n 
+0000002321 00000 n 
+0000003321 00000 n 
+0000003447 00000 n 
+0000003573 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+3641
+%%EOF
